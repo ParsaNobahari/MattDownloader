@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mp472lsl-sggnvon6",
+  "source_url": "https://music.youtube.com/watch?v=kIft-LUHHVA",
+  "created_at_utc": "2026-05-13T15:08:53Z",
+  "mode": "single",
+  "total_size_bytes": 2012,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-mp472lsl-sggnvon6/file.bin",
+  "chunks_path_prefix": "jobs/job-mp472lsl-sggnvon6/chunks/chunk_",
+  "suggested_filename": "watch"
+}
